@@ -1,2 +1,10 @@
 [runtime]
 pythonVersion = "3.10"
+
+[server]
+# Standard settings for cloud deployment, often default but good to explicitly set
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+# Crucial for the inotify error: tell Streamlit to ignore these folders for file changes
+folderWatchBlacklist = ["venv", ".git", "**/__pycache__"]
