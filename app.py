@@ -6,8 +6,14 @@ from deepface import DeepFace
 import random
 import tempfile
 import json
+import requests
+from dotenv import load_dotenv
+import os
 
 st.title("🎬 Mood to Movie Recommender 🎭")
+
+load_dotenv()
+OMDB_API_KEY = os.getenv("OMDB_API_KEY")
 
 # Load your movies from the JSON file
 try:
