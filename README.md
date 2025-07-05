@@ -1,4 +1,4 @@
-# 🎬 Mood to Movie Recommender 🎭
+# 🎬 Mood to Movie Recommender 🎭 - [Link](https://mood-to-movie-recommendation.streamlit.app/)
 
 A fun and interactive Streamlit web application that recommends movies based on your current mood, detected from a selfie\!
 
