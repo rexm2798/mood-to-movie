@@ -1,0 +1,1408 @@
+{
+  "happy": [
+    {
+      "title": "Singin’ in the Rain",
+      "imdb_link": "https://www.imdb.com/title/tt0045152/"
+    },
+    {
+      "title": "La La Land",
+      "imdb_link": "https://www.imdb.com/title/tt3783958/"
+    },
+    {
+      "title": "The Lego Movie",
+      "imdb_link": "https://www.imdb.com/title/tt1490017/"
+    },
+    {
+      "title": "Paddington 2",
+      "imdb_link": "https://www.imdb.com/title/tt4468740/"
+    },
+    {
+      "title": "Chef",
+      "imdb_link": "https://www.imdb.com/title/tt2883512/"
+    },
+    {
+      "title": "The Intouchables",
+      "imdb_link": "https://www.imdb.com/title/tt1675434/"
+    },
+    {
+      "title": "Mamma Mia!",
+      "imdb_link": "https://www.imdb.com/title/tt0795421/"
+    },
+    {
+      "title": "Crazy Rich Asians",
+      "imdb_link": "https://www.imdb.com/title/tt3104988/"
+    },
+    {
+      "title": "The Princess Bride",
+      "imdb_link": "https://www.imdb.com/title/tt0093779/"
+    },
+    {
+      "title": "School of Rock",
+      "imdb_link": "https://www.imdb.com/title/tt0332379/"
+    },
+    {
+      "title": "Ferris Bueller's Day Off",
+      "imdb_link": "https://www.imdb.com/title/tt0091042/"
+    },
+    {
+      "title": "Love Actually",
+      "imdb_link": "https://www.imdb.com/title/tt0314331/"
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "imdb_link": "https://www.imdb.com/title/tt2278388/"
+    },
+    {
+      "title": "Finding Nemo",
+      "imdb_link": "https://www.imdb.com/title/tt0266543/"
+    },
+    {
+      "title": "Moana",
+      "imdb_link": "https://www.imdb.com/title/tt3521164/"
+    },
+    {
+      "title": "Up",
+      "imdb_link": "https://www.imdb.com/title/tt1049413/"
+    },
+    {
+      "title": "The Greatest Showman",
+      "imdb_link": "https://www.imdb.com/title/tt1485796/"
+    },
+    {
+      "title": "Toy Story",
+      "imdb_link": "https://www.imdb.com/title/tt0114709/"
+    },
+    {
+      "title": "Elf",
+      "imdb_link": "https://www.imdb.com/title/tt0319343/"
+    },
+    {
+      "title": "Zootopia",
+      "imdb_link": "https://www.imdb.com/title/tt2948356/"
+    },
+    {
+      "title": "The Secret Life of Pets",
+      "imdb_link": "https://www.imdb.com/title/tt2709768/"
+    },
+    {
+      "title": "Pitch Perfect",
+      "imdb_link": "https://www.imdb.com/title/tt1981677/"
+    },
+    {
+      "title": "Bridget Jones’s Diary",
+      "imdb_link": "https://www.imdb.com/title/tt0243155/"
+    },
+    {
+      "title": "Clueless",
+      "imdb_link": "https://www.imdb.com/title/tt0112697/"
+    },
+    {
+      "title": "10 Things I Hate About You",
+      "imdb_link": "https://www.imdb.com/title/tt0147800/"
+    },
+    {
+      "title": "Yes Man",
+      "imdb_link": "https://www.imdb.com/title/tt1068680/"
+    },
+    {
+      "title": "Lilo & Stitch",
+      "imdb_link": "https://www.imdb.com/title/tt0275847/"
+    },
+    {
+      "title": "Mamma Mia! Here We Go Again",
+      "imdb_link": "https://www.imdb.com/title/tt6911608/"
+    },
+    {
+      "title": "The Proposal",
+      "imdb_link": "https://www.imdb.com/title/tt1041829/"
+    },
+    {
+      "title": "Sing",
+      "imdb_link": "https://www.imdb.com/title/tt3470600/"
+    },
+    {
+      "title": "The Emperor’s New Groove",
+      "imdb_link": "https://www.imdb.com/title/tt0120917/"
+    },
+    {
+      "title": "Cool Runnings",
+      "imdb_link": "https://www.imdb.com/title/tt0106611/"
+    },
+    {
+      "title": "Legally Blonde",
+      "imdb_link": "https://www.imdb.com/title/tt0250494/"
+    },
+    {
+      "title": "Shrek",
+      "imdb_link": "https://www.imdb.com/title/tt0126029/"
+    },
+    {
+      "title": "Mean Girls",
+      "imdb_link": "https://www.imdb.com/title/tt0377092/"
+    },
+    {
+      "title": "The Parent Trap",
+      "imdb_link": "https://www.imdb.com/title/tt0120783/"
+    },
+    {
+      "title": "She’s the Man",
+      "imdb_link": "https://www.imdb.com/title/tt0454945/"
+    },
+    {
+      "title": "Enchanted",
+      "imdb_link": "https://www.imdb.com/title/tt0461770/"
+    },
+    {
+      "title": "Matilda",
+      "imdb_link": "https://www.imdb.com/title/tt0117008/"
+    },
+    {
+      "title": "Freaky Friday",
+      "imdb_link": "https://www.imdb.com/title/tt0322330/"
+    },
+    {
+      "title": "Happy Feet",
+      "imdb_link": "https://www.imdb.com/title/tt0366548/"
+    },
+    {
+      "title": "My Big Fat Greek Wedding",
+      "imdb_link": "https://www.imdb.com/title/tt0259446/"
+    },
+    {
+      "title": "Sister Act",
+      "imdb_link": "https://www.imdb.com/title/tt0105417/"
+    },
+    {
+      "title": "Little Miss Sunshine",
+      "imdb_link": "https://www.imdb.com/title/tt0449059/"
+    },
+    {
+      "title": "Kiki’s Delivery Service",
+      "imdb_link": "https://www.imdb.com/title/tt0097814/"
+    },
+    {
+      "title": "Paddington",
+      "imdb_link": "https://www.imdb.com/title/tt1109624/"
+    },
+    {
+      "title": "Wreck-It Ralph",
+      "imdb_link": "https://www.imdb.com/title/tt1772341/"
+    },
+    {
+      "title": "The Peanuts Movie",
+      "imdb_link": "https://www.imdb.com/title/tt2452042/"
+    },
+    {
+      "title": "Monsters, Inc.",
+      "imdb_link": "https://www.imdb.com/title/tt0198781/"
+    },
+    {
+      "title": "Jumanji: Welcome to the Jungle",
+      "imdb_link": "https://www.imdb.com/title/tt2283362/"
+    }
+  ],
+  "sad": [
+    {
+      "title": "Inside Out",
+      "imdb_link": "https://www.imdb.com/title/tt2096673/"
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "imdb_link": "https://www.imdb.com/title/tt0454921/"
+    },
+    {
+      "title": "Manchester by the Sea",
+      "imdb_link": "https://www.imdb.com/title/tt4034228/"
+    },
+    {
+      "title": "Schindler’s List",
+      "imdb_link": "https://www.imdb.com/title/tt0108052/"
+    },
+    {
+      "title": "Blue Valentine",
+      "imdb_link": "https://www.imdb.com/title/tt1120985/"
+    },
+    {
+      "title": "My Girl",
+      "imdb_link": "https://www.imdb.com/title/tt0102492/"
+    },
+    {
+      "title": "The Green Mile",
+      "imdb_link": "https://www.imdb.com/title/tt0120689/"
+    },
+    {
+      "title": "Bridge to Terabithia",
+      "imdb_link": "https://www.imdb.com/title/tt0398808/"
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "imdb_link": "https://www.imdb.com/title/tt0095327/"
+    },
+    {
+      "title": "Hachi: A Dog’s Tale",
+      "imdb_link": "https://www.imdb.com/title/tt1028532/"
+    },
+    {
+      "title": "Atonement",
+      "imdb_link": "https://www.imdb.com/title/tt0783233/"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "imdb_link": "https://www.imdb.com/title/tt2582846/"
+    },
+    {
+      "title": "Marley & Me",
+      "imdb_link": "https://www.imdb.com/title/tt0822832/"
+    },
+    {
+      "title": "Million Dollar Baby",
+      "imdb_link": "https://www.imdb.com/title/tt0405159/"
+    },
+    {
+      "title": "Beaches",
+      "imdb_link": "https://www.imdb.com/title/tt0094715/"
+    },
+    {
+      "title": "Steel Magnolias",
+      "imdb_link": "https://www.imdb.com/title/tt0098384/"
+    },
+    {
+      "title": "My Sister’s Keeper",
+      "imdb_link": "https://www.imdb.com/title/tt1078588/"
+    },
+    {
+      "title": "The Boy in the Striped Pajamas",
+      "imdb_link": "https://www.imdb.com/title/tt0914798/"
+    },
+    {
+      "title": "Requiem for a Dream",
+      "imdb_link": "https://www.imdb.com/title/tt0180093/"
+    },
+    {
+      "title": "Dancer in the Dark",
+      "imdb_link": "https://www.imdb.com/title/tt0168629/"
+    },
+    {
+      "title": "The Pianist",
+      "imdb_link": "https://www.imdb.com/title/tt0253474/"
+    },
+    {
+      "title": "Life Is Beautiful",
+      "imdb_link": "https://www.imdb.com/title/tt0118799/"
+    },
+    {
+      "title": "Leaving Las Vegas",
+      "imdb_link": "https://www.imdb.com/title/tt0113627/"
+    },
+    {
+      "title": "Philadelphia",
+      "imdb_link": "https://www.imdb.com/title/tt0107818/"
+    },
+    {
+      "title": "P.S. I Love You",
+      "imdb_link": "https://www.imdb.com/title/tt0431308/"
+    },
+    {
+      "title": "The Lovely Bones",
+      "imdb_link": "https://www.imdb.com/title/tt0380510/"
+    },
+    {
+      "title": "Pay It Forward",
+      "imdb_link": "https://www.imdb.com/title/tt0223897/"
+    },
+    {
+      "title": "Ghost",
+      "imdb_link": "https://www.imdb.com/title/tt0099653/"
+    },
+    {
+      "title": "My Left Foot",
+      "imdb_link": "https://www.imdb.com/title/tt0097937/"
+    },
+    {
+      "title": "Precious",
+      "imdb_link": "https://www.imdb.com/title/tt0929632/"
+    },
+    {
+      "title": "The Notebook",
+      "imdb_link": "https://www.imdb.com/title/tt0332280/"
+    },
+    {
+      "title": "12 Years a Slave",
+      "imdb_link": "https://www.imdb.com/title/tt2024544/"
+    },
+    {
+      "title": "Dear Zachary",
+      "imdb_link": "https://www.imdb.com/title/tt1152758/"
+    },
+    {
+      "title": "A Monster Calls",
+      "imdb_link": "https://www.imdb.com/title/tt3416532/"
+    },
+    {
+      "title": "Rabbit Hole",
+      "imdb_link": "https://www.imdb.com/title/tt0935075/"
+    },
+    {
+      "title": "Terms of Endearment",
+      "imdb_link": "https://www.imdb.com/title/tt0086425/"
+    },
+    {
+      "title": "Up",
+      "imdb_link": "https://www.imdb.com/title/tt1049413/"
+    },
+    {
+      "title": "Titanic",
+      "imdb_link": "https://www.imdb.com/title/tt0120338/"
+    },
+    {
+      "title": "Schindler’s List",
+      "imdb_link": "https://www.imdb.com/title/tt0108052/"
+    },
+    {
+      "title": "Room",
+      "imdb_link": "https://www.imdb.com/title/tt3170832/"
+    },
+    {
+      "title": "Lion",
+      "imdb_link": "https://www.imdb.com/title/tt3741834/"
+    },
+    {
+      "title": "Good Will Hunting",
+      "imdb_link": "https://www.imdb.com/title/tt0119217/"
+    },
+    {
+      "title": "A Walk to Remember",
+      "imdb_link": "https://www.imdb.com/title/tt0281358/"
+    },
+    {
+      "title": "Dead Poets Society",
+      "imdb_link": "https://www.imdb.com/title/tt0097165/"
+    },
+    {
+      "title": "Million Dollar Baby",
+      "imdb_link": "https://www.imdb.com/title/tt0405159/"
+    },
+    {
+      "title": "Finding Neverland",
+      "imdb_link": "https://www.imdb.com/title/tt0308644/"
+    },
+    {
+      "title": "Manchester by the Sea",
+      "imdb_link": "https://www.imdb.com/title/tt4034228/"
+    },
+    {
+      "title": "Armageddon",
+      "imdb_link": "https://www.imdb.com/title/tt0120591/"
+    },
+    {
+      "title": "Armageddon",
+      "imdb_link": "https://www.imdb.com/title/tt0120591/"
+    },
+    {
+      "title": "The Book Thief",
+      "imdb_link": "https://www.imdb.com/title/tt0816442/"
+    }
+  ],
+  "angry": [
+    {
+      "title": "Gladiator",
+      "imdb_link": "https://www.imdb.com/title/tt0172495/"
+    },
+    {
+      "title": "John Wick",
+      "imdb_link": "https://www.imdb.com/title/tt2911666/"
+    },
+    {
+      "title": "The Dark Knight",
+      "imdb_link": "https://www.imdb.com/title/tt0468569/"
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "imdb_link": "https://www.imdb.com/title/tt1392190/"
+    },
+    {
+      "title": "Kill Bill: Vol. 1",
+      "imdb_link": "https://www.imdb.com/title/tt0266697/"
+    },
+    {
+      "title": "Fight Club",
+      "imdb_link": "https://www.imdb.com/title/tt0137523/"
+    },
+    {
+      "title": "Oldboy",
+      "imdb_link": "https://www.imdb.com/title/tt0364569/"
+    },
+    {
+      "title": "300",
+      "imdb_link": "https://www.imdb.com/title/tt0416449/"
+    },
+    {
+      "title": "Taken",
+      "imdb_link": "https://www.imdb.com/title/tt0936501/"
+    },
+    {
+      "title": "The Revenant",
+      "imdb_link": "https://www.imdb.com/title/tt1663202/"
+    },
+    {
+      "title": "Django Unchained",
+      "imdb_link": "https://www.imdb.com/title/tt1853728/"
+    },
+    {
+      "title": "The Equalizer",
+      "imdb_link": "https://www.imdb.com/title/tt0455944/"
+    },
+    {
+      "title": "Atomic Blonde",
+      "imdb_link": "https://www.imdb.com/title/tt2406566/"
+    },
+    {
+      "title": "Rambo: First Blood",
+      "imdb_link": "https://www.imdb.com/title/tt0083944/"
+    },
+    {
+      "title": "Logan",
+      "imdb_link": "https://www.imdb.com/title/tt3315342/"
+    },
+    {
+      "title": "Heat",
+      "imdb_link": "https://www.imdb.com/title/tt0113277/"
+    },
+    {
+      "title": "Sicario",
+      "imdb_link": "https://www.imdb.com/title/tt3397884/"
+    },
+    {
+      "title": "American History X",
+      "imdb_link": "https://www.imdb.com/title/tt0120586/"
+    },
+    {
+      "title": "Scarface",
+      "imdb_link": "https://www.imdb.com/title/tt0086250/"
+    },
+    {
+      "title": "Unforgiven",
+      "imdb_link": "https://www.imdb.com/title/tt0105695/"
+    },
+    {
+      "title": "Inglourious Basterds",
+      "imdb_link": "https://www.imdb.com/title/tt0361748/"
+    },
+    {
+      "title": "The Punisher",
+      "imdb_link": "https://www.imdb.com/title/tt0330793/"
+    },
+    {
+      "title": "Kill Bill: Vol. 2",
+      "imdb_link": "https://www.imdb.com/title/tt0378194/"
+    },
+    {
+      "title": "Law Abiding Citizen",
+      "imdb_link": "https://www.imdb.com/title/tt1197624/"
+    },
+    {
+      "title": "Falling Down",
+      "imdb_link": "https://www.imdb.com/title/tt0106856/"
+    },
+    {
+      "title": "V for Vendetta",
+      "imdb_link": "https://www.imdb.com/title/tt0434409/"
+    },
+    {
+      "title": "Man on Fire",
+      "imdb_link": "https://www.imdb.com/title/tt0328107/"
+    },
+    {
+      "title": "The Raid: Redemption",
+      "imdb_link": "https://www.imdb.com/title/tt1899353/"
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "imdb_link": "https://www.imdb.com/title/tt1631867/"
+    },
+    {
+      "title": "Crank",
+      "imdb_link": "https://www.imdb.com/title/tt0479884/"
+    },
+    {
+      "title": "Sin City",
+      "imdb_link": "https://www.imdb.com/title/tt0401792/"
+    },
+    {
+      "title": "Wanted",
+      "imdb_link": "https://www.imdb.com/title/tt0493464/"
+    },
+    {
+      "title": "The Bourne Ultimatum",
+      "imdb_link": "https://www.imdb.com/title/tt0440963/"
+    },
+    {
+      "title": "Shoot 'Em Up",
+      "imdb_link": "https://www.imdb.com/title/tt0465602/"
+    },
+    {
+      "title": "Death Proof",
+      "imdb_link": "https://www.imdb.com/title/tt1028528/"
+    },
+    {
+      "title": "Run All Night",
+      "imdb_link": "https://www.imdb.com/title/tt2199571/"
+    },
+    {
+      "title": "Commando",
+      "imdb_link": "https://www.imdb.com/title/tt0088944/"
+    },
+    {
+      "title": "Hardcore Henry",
+      "imdb_link": "https://www.imdb.com/title/tt3072482/"
+    },
+    {
+      "title": "The Equalizer 2",
+      "imdb_link": "https://www.imdb.com/title/tt3766354/"
+    },
+    {
+      "title": "Sicario: Day of the Soldado",
+      "imdb_link": "https://www.imdb.com/title/tt5052474/"
+    },
+    {
+      "title": "Sabotage",
+      "imdb_link": "https://www.imdb.com/title/tt1742334/"
+    },
+    {
+      "title": "Den of Thieves",
+      "imdb_link": "https://www.imdb.com/title/tt1259528/"
+    },
+    {
+      "title": "The Hateful Eight",
+      "imdb_link": "https://www.imdb.com/title/tt3460252/"
+    },
+    {
+      "title": "The Boondock Saints",
+      "imdb_link": "https://www.imdb.com/title/tt0144117/"
+    },
+    {
+      "title": "Wanted",
+      "imdb_link": "https://www.imdb.com/title/tt0493464/"
+    },
+    {
+      "title": "Bad Boys",
+      "imdb_link": "https://www.imdb.com/title/tt0112442/"
+    },
+    {
+      "title": "Crank: High Voltage",
+      "imdb_link": "https://www.imdb.com/title/tt1121931/"
+    },
+    {
+      "title": "The Accountant",
+      "imdb_link": "https://www.imdb.com/title/tt2140479/"
+    },
+    {
+      "title": "Wrath of Man",
+      "imdb_link": "https://www.imdb.com/title/tt11083552/"
+    },
+    {
+      "title": "Nobody",
+      "imdb_link": "https://www.imdb.com/title/tt7888964/"
+    }
+  ],
+  "surprise": [
+    {
+      "title": "Inception",
+      "imdb_link": "https://www.imdb.com/title/tt1375666/"
+    },
+    {
+      "title": "The Prestige",
+      "imdb_link": "https://www.imdb.com/title/tt0482571/"
+    },
+    {
+      "title": "The Sixth Sense",
+      "imdb_link": "https://www.imdb.com/title/tt0167404/"
+    },
+    {
+      "title": "Gone Girl",
+      "imdb_link": "https://www.imdb.com/title/tt2267998/"
+    },
+    {
+      "title": "Memento",
+      "imdb_link": "https://www.imdb.com/title/tt0209144/"
+    },
+    {
+      "title": "Shutter Island",
+      "imdb_link": "https://www.imdb.com/title/tt1130884/"
+    },
+    {
+      "title": "Se7en",
+      "imdb_link": "https://www.imdb.com/title/tt0114369/"
+    },
+    {
+      "title": "Parasite",
+      "imdb_link": "https://www.imdb.com/title/tt6751668/"
+    },
+    {
+      "title": "Fight Club",
+      "imdb_link": "https://www.imdb.com/title/tt0137523/"
+    },
+    {
+      "title": "Primal Fear",
+      "imdb_link": "https://www.imdb.com/title/tt0117381/"
+    },
+    {
+      "title": "The Others",
+      "imdb_link": "https://www.imdb.com/title/tt0230600/"
+    },
+    {
+      "title": "The Usual Suspects",
+      "imdb_link": "https://www.imdb.com/title/tt0114814/"
+    },
+    {
+      "title": "The Game",
+      "imdb_link": "https://www.imdb.com/title/tt0119174/"
+    },
+    {
+      "title": "Donnie Darko",
+      "imdb_link": "https://www.imdb.com/title/tt0246578/"
+    },
+    {
+      "title": "The Machinist",
+      "imdb_link": "https://www.imdb.com/title/tt0361862/"
+    },
+    {
+      "title": "Oldboy",
+      "imdb_link": "https://www.imdb.com/title/tt0364569/"
+    },
+    {
+      "title": "Arrival",
+      "imdb_link": "https://www.imdb.com/title/tt2543164/"
+    },
+    {
+      "title": "Coherence",
+      "imdb_link": "https://www.imdb.com/title/tt2866360/"
+    },
+    {
+      "title": "Gone Baby Gone",
+      "imdb_link": "https://www.imdb.com/title/tt0452623/"
+    },
+    {
+      "title": "Lucky Number Slevin",
+      "imdb_link": "https://www.imdb.com/title/tt0425210/"
+    },
+    {
+      "title": "Enemy",
+      "imdb_link": "https://www.imdb.com/title/tt2316411/"
+    },
+    {
+      "title": "Predestination",
+      "imdb_link": "https://www.imdb.com/title/tt2397535/"
+    },
+    {
+      "title": "Triangle",
+      "imdb_link": "https://www.imdb.com/title/tt1187064/"
+    },
+    {
+      "title": "Secret Window",
+      "imdb_link": "https://www.imdb.com/title/tt0363988/"
+    },
+    {
+      "title": "Identity",
+      "imdb_link": "https://www.imdb.com/title/tt0309698/"
+    },
+    {
+      "title": "Before I Go to Sleep",
+      "imdb_link": "https://www.imdb.com/title/tt1726592/"
+    },
+    {
+      "title": "Shutter",
+      "imdb_link": "https://www.imdb.com/title/tt0482599/"
+    },
+    {
+      "title": "Orphan",
+      "imdb_link": "https://www.imdb.com/title/tt1148204/"
+    },
+    {
+      "title": "The Skeleton Key",
+      "imdb_link": "https://www.imdb.com/title/tt0397101/"
+    },
+    {
+      "title": "The Others",
+      "imdb_link": "https://www.imdb.com/title/tt0230600/"
+    },
+    {
+      "title": "Perfect Stranger",
+      "imdb_link": "https://www.imdb.com/title/tt0457430/"
+    },
+    {
+      "title": "Secret in Their Eyes",
+      "imdb_link": "https://www.imdb.com/title/tt1741273/"
+    },
+    {
+      "title": "Basic Instinct",
+      "imdb_link": "https://www.imdb.com/title/tt0103772/"
+    },
+    {
+      "title": "Gone in 60 Seconds",
+      "imdb_link": "https://www.imdb.com/title/tt0187078/"
+    },
+    {
+      "title": "The Departed",
+      "imdb_link": "https://www.imdb.com/title/tt0407887/"
+    },
+    {
+      "title": "Black Swan",
+      "imdb_link": "https://www.imdb.com/title/tt0947798/"
+    },
+    {
+      "title": "Zodiac",
+      "imdb_link": "https://www.imdb.com/title/tt0443706/"
+    },
+    {
+      "title": "Shutter Island",
+      "imdb_link": "https://www.imdb.com/title/tt1130884/"
+    },
+    {
+      "title": "Split",
+      "imdb_link": "https://www.imdb.com/title/tt4972582/"
+    },
+    {
+      "title": "Us",
+      "imdb_link": "https://www.imdb.com/title/tt6857112/"
+    },
+    {
+      "title": "Ex Machina",
+      "imdb_link": "https://www.imdb.com/title/tt0470752/"
+    },
+    {
+      "title": "Hereditary",
+      "imdb_link": "https://www.imdb.com/title/tt7784604/"
+    },
+    {
+      "title": "The Invitation",
+      "imdb_link": "https://www.imdb.com/title/tt2400463/"
+    },
+    {
+      "title": "The Invisible Man",
+      "imdb_link": "https://www.imdb.com/title/tt1051906/"
+    },
+    {
+      "title": "The Mist",
+      "imdb_link": "https://www.imdb.com/title/tt0884328/"
+    },
+    {
+      "title": "The Others",
+      "imdb_link": "https://www.imdb.com/title/tt0230600/"
+    },
+    {
+      "title": "Tenet",
+      "imdb_link": "https://www.imdb.com/title/tt6723592/"
+    },
+    {
+      "title": "Old",
+      "imdb_link": "https://www.imdb.com/title/tt10954600/"
+    },
+    {
+      "title": "Knives Out",
+      "imdb_link": "https://www.imdb.com/title/tt8946378/"
+    },
+    {
+      "title": "The Prestige",
+      "imdb_link": "https://www.imdb.com/title/tt0482571/"
+    }
+  ],
+  "fear": [
+    {
+      "title": "Get Out",
+      "imdb_link": "https://www.imdb.com/title/tt5052448/"
+    },
+    {
+      "title": "A Quiet Place",
+      "imdb_link": "https://www.imdb.com/title/tt6644200/"
+    },
+    {
+      "title": "The Conjuring",
+      "imdb_link": "https://www.imdb.com/title/tt1457767/"
+    },
+    {
+      "title": "Hereditary",
+      "imdb_link": "https://www.imdb.com/title/tt7784604/"
+    },
+    {
+      "title": "The Exorcist",
+      "imdb_link": "https://www.imdb.com/title/tt0070047/"
+    },
+    {
+      "title": "It",
+      "imdb_link": "https://www.imdb.com/title/tt1396484/"
+    },
+    {
+      "title": "The Babadook",
+      "imdb_link": "https://www.imdb.com/title/tt2321549/"
+    },
+    {
+      "title": "Psycho",
+      "imdb_link": "https://www.imdb.com/title/tt0054215/"
+    },
+    {
+      "title": "Insidious",
+      "imdb_link": "https://www.imdb.com/title/tt1591095/"
+    },
+    {
+      "title": "The Ring",
+      "imdb_link": "https://www.imdb.com/title/tt0298130/"
+    },
+    {
+      "title": "The Shining",
+      "imdb_link": "https://www.imdb.com/title/tt0081505/"
+    },
+    {
+      "title": "The Blair Witch Project",
+      "imdb_link": "https://www.imdb.com/title/tt0185937/"
+    },
+    {
+      "title": "Sinister",
+      "imdb_link": "https://www.imdb.com/title/tt1922777/"
+    },
+    {
+      "title": "The Descent",
+      "imdb_link": "https://www.imdb.com/title/tt0435625/"
+    },
+    {
+      "title": "The Witch",
+      "imdb_link": "https://www.imdb.com/title/tt4263482/"
+    },
+    {
+      "title": "Us",
+      "imdb_link": "https://www.imdb.com/title/tt6857112/"
+    },
+    {
+      "title": "Paranormal Activity",
+      "imdb_link": "https://www.imdb.com/title/tt1179904/"
+    },
+    {
+      "title": "The Texas Chain Saw Massacre",
+      "imdb_link": "https://www.imdb.com/title/tt0072271/"
+    },
+    {
+      "title": "Halloween",
+      "imdb_link": "https://www.imdb.com/title/tt0077651/"
+    },
+    {
+      "title": "It Follows",
+      "imdb_link": "https://www.imdb.com/title/tt3235888/"
+    },
+    {
+      "title": "The Others",
+      "imdb_link": "https://www.imdb.com/title/tt0230600/"
+    },
+    {
+      "title": "The Grudge",
+      "imdb_link": "https://www.imdb.com/title/tt0391198/"
+    },
+    {
+      "title": "Saw",
+      "imdb_link": "https://www.imdb.com/title/tt0387564/"
+    },
+    {
+      "title": "Annabelle",
+      "imdb_link": "https://www.imdb.com/title/tt3322940/"
+    },
+    {
+      "title": "Insidious: Chapter 2",
+      "imdb_link": "https://www.imdb.com/title/tt2226417/"
+    },
+    {
+      "title": "The Conjuring 2",
+      "imdb_link": "https://www.imdb.com/title/tt3065204/"
+    },
+    {
+      "title": "Hostel",
+      "imdb_link": "https://www.imdb.com/title/tt0450278/"
+    },
+    {
+      "title": "The Cabin in the Woods",
+      "imdb_link": "https://www.imdb.com/title/tt1259521/"
+    },
+    {
+      "title": "The Omen",
+      "imdb_link": "https://www.imdb.com/title/tt0075005/"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "imdb_link": "https://www.imdb.com/title/tt0102926/"
+    },
+    {
+      "title": "Candyman",
+      "imdb_link": "https://www.imdb.com/title/tt0103919/"
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "imdb_link": "https://www.imdb.com/title/tt6763664/"
+    },
+    {
+      "title": "The Nun",
+      "imdb_link": "https://www.imdb.com/title/tt5814060/"
+    },
+    {
+      "title": "Evil Dead",
+      "imdb_link": "https://www.imdb.com/title/tt1288558/"
+    },
+    {
+      "title": "Poltergeist",
+      "imdb_link": "https://www.imdb.com/title/tt0084516/"
+    },
+    {
+      "title": "The Amityville Horror",
+      "imdb_link": "https://www.imdb.com/title/tt0078767/"
+    },
+    {
+      "title": "Case 39",
+      "imdb_link": "https://www.imdb.com/title/tt0795351/"
+    },
+    {
+      "title": "1408",
+      "imdb_link": "https://www.imdb.com/title/tt0450385/"
+    },
+    {
+      "title": "Final Destination",
+      "imdb_link": "https://www.imdb.com/title/tt0195714/"
+    },
+    {
+      "title": "The Sixth Sense",
+      "imdb_link": "https://www.imdb.com/title/tt0167404/"
+    },
+    {
+      "title": "The Purge",
+      "imdb_link": "https://www.imdb.com/title/tt2184339/"
+    },
+    {
+      "title": "Gerald’s Game",
+      "imdb_link": "https://www.imdb.com/title/tt3748172/"
+    },
+    {
+      "title": "Bird Box",
+      "imdb_link": "https://www.imdb.com/title/tt2737304/"
+    },
+    {
+      "title": "Midsommar",
+      "imdb_link": "https://www.imdb.com/title/tt8772262/"
+    },
+    {
+      "title": "It Comes at Night",
+      "imdb_link": "https://www.imdb.com/title/tt4695012/"
+    },
+    {
+      "title": "The Invisible Man",
+      "imdb_link": "https://www.imdb.com/title/tt1051906/"
+    },
+    {
+      "title": "Lights Out",
+      "imdb_link": "https://www.imdb.com/title/tt4786282/"
+    },
+    {
+      "title": "Pet Sematary",
+      "imdb_link": "https://www.imdb.com/title/tt0837563/"
+    },
+    {
+      "title": "The Orphanage",
+      "imdb_link": "https://www.imdb.com/title/tt0464141/"
+    },
+    {
+      "title": "Hellraiser",
+      "imdb_link": "https://www.imdb.com/title/tt0093177/"
+    }
+  ],
+  "disgust": [
+    {
+      "title": "Trainspotting",
+      "imdb_link": "https://www.imdb.com/title/tt0117951/"
+    },
+    {
+      "title": "Requiem for a Dream",
+      "imdb_link": "https://www.imdb.com/title/tt0180093/"
+    },
+    {
+      "title": "American Psycho",
+      "imdb_link": "https://www.imdb.com/title/tt0144084/"
+    },
+    {
+      "title": "Se7en",
+      "imdb_link": "https://www.imdb.com/title/tt0114369/"
+    },
+    {
+      "title": "Saw",
+      "imdb_link": "https://www.imdb.com/title/tt0387564/"
+    },
+    {
+      "title": "The Human Centipede",
+      "imdb_link": "https://www.imdb.com/title/tt1467304/"
+    },
+    {
+      "title": "Raw",
+      "imdb_link": "https://www.imdb.com/title/tt4954522/"
+    },
+    {
+      "title": "Mother!",
+      "imdb_link": "https://www.imdb.com/title/tt5109784/"
+    },
+    {
+      "title": "Irreversible",
+      "imdb_link": "https://www.imdb.com/title/tt0290673/"
+    },
+    {
+      "title": "Hostel",
+      "imdb_link": "https://www.imdb.com/title/tt0450278/"
+    },
+    {
+      "title": "Antichrist",
+      "imdb_link": "https://www.imdb.com/title/tt0870984/"
+    },
+    {
+      "title": "Martyrs",
+      "imdb_link": "https://www.imdb.com/title/tt1029234/"
+    },
+    {
+      "title": "The Neon Demon",
+      "imdb_link": "https://www.imdb.com/title/tt1974419/"
+    },
+    {
+      "title": "Salo, or the 120 Days of Sodom",
+      "imdb_link": "https://www.imdb.com/title/tt0073650/"
+    },
+    {
+      "title": "Cannibal Holocaust",
+      "imdb_link": "https://www.imdb.com/title/tt0078935/"
+    },
+    {
+      "title": "Henry: Portrait of a Serial Killer",
+      "imdb_link": "https://www.imdb.com/title/tt0099763/"
+    },
+    {
+      "title": "Serbian Film",
+      "imdb_link": "https://www.imdb.com/title/tt1273235/"
+    },
+    {
+      "title": "The Green Inferno",
+      "imdb_link": "https://www.imdb.com/title/tt2403021/"
+    },
+    {
+      "title": "Texas Chainsaw Massacre",
+      "imdb_link": "https://www.imdb.com/title/tt0072271/"
+    },
+    {
+      "title": "Tusk",
+      "imdb_link": "https://www.imdb.com/title/tt3099498/"
+    },
+    {
+      "title": "Pink Flamingos",
+      "imdb_link": "https://www.imdb.com/title/tt0069089/"
+    },
+    {
+      "title": "Ichi the Killer",
+      "imdb_link": "https://www.imdb.com/title/tt0296042/"
+    },
+    {
+      "title": "Grotesque",
+      "imdb_link": "https://www.imdb.com/title/tt1330054/"
+    },
+    {
+      "title": "Inside",
+      "imdb_link": "https://www.imdb.com/title/tt0856288/"
+    },
+    {
+      "title": "Bone Tomahawk",
+      "imdb_link": "https://www.imdb.com/title/tt2494362/"
+    },
+    {
+      "title": "Dead Alive",
+      "imdb_link": "https://www.imdb.com/title/tt0103873/"
+    },
+    {
+      "title": "Hostel: Part II",
+      "imdb_link": "https://www.imdb.com/title/tt0498353/"
+    },
+    {
+      "title": "High Tension",
+      "imdb_link": "https://www.imdb.com/title/tt0338095/"
+    },
+    {
+      "title": "Frontier(s)",
+      "imdb_link": "https://www.imdb.com/title/tt0814685/"
+    },
+    {
+      "title": "The House That Jack Built",
+      "imdb_link": "https://www.imdb.com/title/tt4003440/"
+    },
+    {
+      "title": "Begotten",
+      "imdb_link": "https://www.imdb.com/title/tt0099040/"
+    },
+    {
+      "title": "Baskin",
+      "imdb_link": "https://www.imdb.com/title/tt4935418/"
+    },
+    {
+      "title": "Maniac",
+      "imdb_link": "https://www.imdb.com/title/tt2103217/"
+    },
+    {
+      "title": "Calvaire",
+      "imdb_link": "https://www.imdb.com/title/tt0407621/"
+    },
+    {
+      "title": "The Girl Next Door",
+      "imdb_link": "https://www.imdb.com/title/tt0830558/"
+    },
+    {
+      "title": "A Serbian Film",
+      "imdb_link": "https://www.imdb.com/title/tt1273235/"
+    },
+    {
+      "title": "Hard Candy",
+      "imdb_link": "https://www.imdb.com/title/tt0424136/"
+    },
+    {
+      "title": "The Loved Ones",
+      "imdb_link": "https://www.imdb.com/title/tt1316536/"
+    },
+    {
+      "title": "The Devil's Rejects",
+      "imdb_link": "https://www.imdb.com/title/tt0395584/"
+    },
+    {
+      "title": "Inside (À l'intérieur)",
+      "imdb_link": "https://www.imdb.com/title/tt0856288/"
+    },
+    {
+      "title": "House of 1000 Corpses",
+      "imdb_link": "https://www.imdb.com/title/tt0251736/"
+    },
+    {
+      "title": "Kuso",
+      "imdb_link": "https://www.imdb.com/title/tt5692146/"
+    },
+    {
+      "title": "Antiviral",
+      "imdb_link": "https://www.imdb.com/title/tt2099556/"
+    },
+    {
+      "title": "The Void",
+      "imdb_link": "https://www.imdb.com/title/tt4255304/"
+    },
+    {
+      "title": "Tetsuo: The Iron Man",
+      "imdb_link": "https://www.imdb.com/title/tt0096251/"
+    },
+    {
+      "title": "V/H/S",
+      "imdb_link": "https://www.imdb.com/title/tt2105044/"
+    },
+    {
+      "title": "Tokyo Gore Police",
+      "imdb_link": "https://www.imdb.com/title/tt1262416/"
+    },
+    {
+      "title": "Martyrs",
+      "imdb_link": "https://www.imdb.com/title/tt1029234/"
+    },
+    {
+      "title": "The Sadness",
+      "imdb_link": "https://www.imdb.com/title/tt13872248/"
+    }
+  ],
+  "neutral": [
+    {
+      "title": "Forrest Gump",
+      "imdb_link": "https://www.imdb.com/title/tt0109830/"
+    },
+    {
+      "title": "The Truman Show",
+      "imdb_link": "https://www.imdb.com/title/tt0120382/"
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "imdb_link": "https://www.imdb.com/title/tt0359950/"
+    },
+    {
+      "title": "Cast Away",
+      "imdb_link": "https://www.imdb.com/title/tt0162222/"
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "imdb_link": "https://www.imdb.com/title/tt0421715/"
+    },
+    {
+      "title": "The Hundred-Foot Journey",
+      "imdb_link": "https://www.imdb.com/title/tt2980648/"
+    },
+    {
+      "title": "Julie & Julia",
+      "imdb_link": "https://www.imdb.com/title/tt1135503/"
+    },
+    {
+      "title": "Amélie",
+      "imdb_link": "https://www.imdb.com/title/tt0211915/"
+    },
+    {
+      "title": "Big Fish",
+      "imdb_link": "https://www.imdb.com/title/tt0319061/"
+    },
+    {
+      "title": "The Terminal",
+      "imdb_link": "https://www.imdb.com/title/tt0362227/"
+    },
+    {
+      "title": "Life of Pi",
+      "imdb_link": "https://www.imdb.com/title/tt0454876/"
+    },
+    {
+      "title": "Finding Forrester",
+      "imdb_link": "https://www.imdb.com/title/tt0181536/"
+    },
+    {
+      "title": "The Bucket List",
+      "imdb_link": "https://www.imdb.com/title/tt0825232/"
+    },
+    {
+      "title": "Up in the Air",
+      "imdb_link": "https://www.imdb.com/title/tt1193138/"
+    },
+    {
+      "title": "Lost in Translation",
+      "imdb_link": "https://www.imdb.com/title/tt0335266/"
+    },
+    {
+      "title": "Moneyball",
+      "imdb_link": "https://www.imdb.com/title/tt1210166/"
+    },
+    {
+      "title": "Catch Me If You Can",
+      "imdb_link": "https://www.imdb.com/title/tt0264464/"
+    },
+    {
+      "title": "Good Will Hunting",
+      "imdb_link": "https://www.imdb.com/title/tt0119217/"
+    },
+    {
+      "title": "Erin Brockovich",
+      "imdb_link": "https://www.imdb.com/title/tt0195685/"
+    },
+    {
+      "title": "Jerry Maguire",
+      "imdb_link": "https://www.imdb.com/title/tt0116695/"
+    },
+    {
+      "title": "About Time",
+      "imdb_link": "https://www.imdb.com/title/tt2194499/"
+    },
+    {
+      "title": "The Holiday",
+      "imdb_link": "https://www.imdb.com/title/tt0457939/"
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "imdb_link": "https://www.imdb.com/title/tt0454921/"
+    },
+    {
+      "title": "Little Miss Sunshine",
+      "imdb_link": "https://www.imdb.com/title/tt0449059/"
+    },
+    {
+      "title": "Julie & Julia",
+      "imdb_link": "https://www.imdb.com/title/tt1135503/"
+    },
+    {
+      "title": "Chocolat",
+      "imdb_link": "https://www.imdb.com/title/tt0241303/"
+    },
+    {
+      "title": "Eat Pray Love",
+      "imdb_link": "https://www.imdb.com/title/tt0871426/"
+    },
+    {
+      "title": "Wild",
+      "imdb_link": "https://www.imdb.com/title/tt2305051/"
+    },
+    {
+      "title": "The Way",
+      "imdb_link": "https://www.imdb.com/title/tt1441912/"
+    },
+    {
+      "title": "The Best Exotic Marigold Hotel",
+      "imdb_link": "https://www.imdb.com/title/tt1412386/"
+    },
+    {
+      "title": "Brooklyn",
+      "imdb_link": "https://www.imdb.com/title/tt2381111/"
+    },
+    {
+      "title": "A Beautiful Day in the Neighborhood",
+      "imdb_link": "https://www.imdb.com/title/tt3224458/"
+    },
+    {
+      "title": "The Intern",
+      "imdb_link": "https://www.imdb.com/title/tt2361509/"
+    },
+    {
+      "title": "Chef",
+      "imdb_link": "https://www.imdb.com/title/tt2883512/"
+    },
+    {
+      "title": "Yes Man",
+      "imdb_link": "https://www.imdb.com/title/tt1068680/"
+    },
+    {
+      "title": "Amélie",
+      "imdb_link": "https://www.imdb.com/title/tt0211915/"
+    },
+    {
+      "title": "Julie & Julia",
+      "imdb_link": "https://www.imdb.com/title/tt1135503/"
+    },
+    {
+      "title": "The Hundred-Foot Journey",
+      "imdb_link": "https://www.imdb.com/title/tt2980648/"
+    },
+    {
+      "title": "Hector and the Search for Happiness",
+      "imdb_link": "https://www.imdb.com/title/tt1626146/"
+    },
+    {
+      "title": "The Peanut Butter Falcon",
+      "imdb_link": "https://www.imdb.com/title/tt4364194/"
+    },
+    {
+      "title": "Finding Nemo",
+      "imdb_link": "https://www.imdb.com/title/tt0266543/"
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "imdb_link": "https://www.imdb.com/title/tt1748122/"
+    },
+    {
+      "title": "The Secret Life of Pets",
+      "imdb_link": "https://www.imdb.com/title/tt2709768/"
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "imdb_link": "https://www.imdb.com/title/tt0359950/"
+    },
+    {
+      "title": "Little Women",
+      "imdb_link": "https://www.imdb.com/title/tt3281548/"
+    },
+    {
+      "title": "A Man Called Ove",
+      "imdb_link": "https://www.imdb.com/title/tt4080728/"
+    },
+    {
+      "title": "Julie & Julia",
+      "imdb_link": "https://www.imdb.com/title/tt1135503/"
+    },
+    {
+      "title": "Julie & Julia",
+      "imdb_link": "https://www.imdb.com/title/tt1135503/"
+    },
+    {
+      "title": "Julie & Julia",
+      "imdb_link": "https://www.imdb.com/title/tt1135503/"
+    }
+  ]
+}
