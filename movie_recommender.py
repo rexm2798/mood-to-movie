@@ -1,25 +1,24 @@
-# movie_recommender.py
-import streamlit as st
-import requests
-import random
+import os
 import json
-import tempfile
+import random
+import requests
+import streamlit as st
 from PIL import Image
 from deepface import DeepFace
 from dotenv import load_dotenv
-import os
 
-load_dotenv()  # Loads .env variables
-
+# Load environment variables
+load_dotenv()
 OMDB_API_KEY = os.getenv("OMDB_API_KEY")
 
-# Load your movies.json
+# Load the mood-to-movie mapping from JSON
 with open("movie.json", "r", encoding="utf-8") as f:
     mood_to_movies = json.load(f)
 
 def fetch_movie_details(title, api_key):
     url = f"http://www.omdbapi.com/?t={title}&apikey={api_key}"
     response = requests.get(url)
+    
     if response.status_code == 200:
         data = response.json()
         if data.get("Response") == "True":
@@ -31,17 +30,21 @@ def fetch_movie_details(title, api_key):
         st.error("Failed to fetch movie details.")
         return None
 
-def detect_mood_and_recommend(uploaded_file):
-    if uploaded_file:
-        img = Image.open(uploaded_file)
-        st.image(img, caption="Uploaded Selfie", use_container_width=True)
+def detect_mood_and_recommend(image_path):
+    if image_path:
         try:
-            with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as tmp_file:
-                tmp_file.write(uploaded_file.getbuffer())
-                temp_image_path = tmp_file.name
-            result = DeepFace.analyze(img_path=temp_image_path, actions=['emotion'], enforce_detection=False)
+            img = Image.open(image_path)
+            # st.image(img, caption="Your Selfie", use_container_width=True)
+
+            result = DeepFace.analyze(
+                img_path=image_path,
+                actions=['emotion'],
+                enforce_detection=False
+            )
+
             mood = result[0]['dominant_emotion']
             st.success(f"Your mood is detected as: **{mood.capitalize()}**")
+
             mood_lower = mood.lower()
             movies_list = mood_to_movies.get(mood_lower, mood_to_movies["neutral"])
             chosen_movie = random.choice(movies_list)
@@ -56,14 +59,19 @@ def detect_mood_and_recommend(uploaded_file):
                     fallback_display(title, imdb_link)
             else:
                 fallback_display(title, imdb_link)
+
         except Exception as e:
             st.error(f"Error in emotion detection: {str(e)}")
+    else:
+        st.warning("No image path provided for mood detection.")
 
 def display_movie_details(movie_data):
     st.markdown("## 🎥 Recommended Movie Details")
     col1, col2 = st.columns([1, 2])
+    
     with col1:
         st.image(movie_data["Poster"], caption=movie_data["Title"], use_container_width=True)
+    
     with col2:
         st.markdown(f"### [{movie_data['Title']}](https://www.imdb.com/title/{movie_data['imdbID']}) ({movie_data['Year']})")
         st.markdown(f"**IMDB Rating**: ⭐ {movie_data['imdbRating']}/10")
