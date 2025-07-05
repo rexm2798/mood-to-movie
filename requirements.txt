@@ -1,4 +1,19 @@
-streamlit
-deepface
-pillow
-tf-keras
+# requirements.txt
+
+# Compatible TensorFlow version (Keras 2.x APIs)
+tensorflow==2.12.0
+
+# DeepFace and its dependencies
+deepface==0.0.79
+
+# For face detection models
+retina-face==0.0.13
+
+# Common dependencies
+numpy>=1.19.5
+pandas>=1.1.5
+opencv-python>=4.5.5
+matplotlib>=3.1.3
+
+# Optional: suppress warnings
+tensorflow-estimator==2.12.0
