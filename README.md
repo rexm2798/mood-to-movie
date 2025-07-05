@@ -110,8 +110,7 @@ This will open the application in your default web browser.
 ├── app.py                     # Main Streamlit application
 ├── movie_recommender.py       # Logic for mood detection and movie recommendation
 ├── movie.json                 # Curated list of movies categorized by mood
-├── .env.example               # Example .env file for environment variables
-├── .env                       # Your actual .env file (gitignore this!)
+|- packages.txt                #library
 └── requirements.txt           # Python dependencies
 └── README.md                  # This file
 ```
@@ -144,20 +143,6 @@ Example structure:
 
 You can extend or modify this file to include more movies or refine the existing recommendations.
 
-## 🤝 Contributing
-
-Contributions are welcome\! If you have suggestions for new features, bug fixes, or improvements to the movie list, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'feat: Add new feature'`).
-5.  Push to the branch (`git push origin feature/your-feature`).
-6.  Open a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file (if you have one) for details.
 
 ## 🙏 Acknowledgements
 
