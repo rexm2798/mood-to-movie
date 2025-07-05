@@ -1,7 +1,3 @@
-Here's a comprehensive README file for your "Mood to Movie Recommender" project. You can save this as `README.md` in the root of your project directory.
-
------
-
 # 🎬 Mood to Movie Recommender 🎭
 
 A fun and interactive Streamlit web application that recommends movies based on your current mood, detected from a selfie\!
