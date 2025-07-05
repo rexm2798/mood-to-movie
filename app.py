@@ -1,4 +1,5 @@
-# Installing Streamlit (for web app UI), DeepFace for selfie emotion recognition, Pillow to handle images
+# app.py
+
 import streamlit as st
 from PIL import Image
 from deepface import DeepFace
@@ -9,8 +10,12 @@ import json
 st.title("🎬 Mood to Movie Recommender 🎭")
 
 # Load your movies from the JSON file
-with open("movies.json", "r", encoding="utf-8") as f:
-    mood_to_movies = json.load(f)
+try:
+    with open("movie.json", "r", encoding="utf-8") as f:
+        mood_to_movies = json.load(f)
+except FileNotFoundError:
+    st.error("❗ Could not find 'movie.json'. Please make sure the file exists in the same directory as this app.")
+    st.stop()
 
 uploaded_file = st.file_uploader("Upload your selfie:", type=["jpg", "png"])
 
@@ -22,18 +27,22 @@ if uploaded_file:
         with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as tmp_file:
             tmp_file.write(uploaded_file.getbuffer())
             temp_image_path = tmp_file.name
-        
-        # Perform emotion analysis
+
         result = DeepFace.analyze(img_path=temp_image_path, actions=['emotion'], enforce_detection=False)
         mood = result[0]['dominant_emotion']
         st.success(f"Your mood is detected as: **{mood.capitalize()}**")
-        
+
         mood_lower = mood.lower()
-        movies_list = mood_to_movies.get(mood_lower, mood_to_movies["neutral"])
-        chosen_movie = random.choice(movies_list)
-        title, link = chosen_movie
+        movies_list = mood_to_movies.get(mood_lower, mood_to_movies.get("neutral", []))
         
-        st.markdown("## 🎥 Recommended Movie:")
-        st.markdown(f"- [{title}]({link})")
+        if not movies_list:
+            st.warning("No movies found for this mood.")
+        else:
+            chosen_movie = random.choice(movies_list)
+            title = chosen_movie["title"]
+            link = chosen_movie["imdb_link"]
+
+            st.markdown("## 🎥 Recommended Movie:")
+            st.markdown(f"- [{title}]({link})")
     except Exception as e:
-        st.error(f"Error in emotion detection: {str(e)}")
+        st.error(f"❗ Error in emotion detection: {str(e)}")
