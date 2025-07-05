@@ -3,6 +3,8 @@ import streamlit as st
 from PIL import Image
 from deepface import DeepFace
 import random
+import tempfile
+
 
 st.title("🎬 Mood to Movie Recommender 🎭")
 
@@ -376,7 +378,11 @@ if uploaded_file:
     img=Image.open(uploaded_file)
     st.image(img,caption="Uploaded Selfie",use_column_width=True)
     try:
-        result= DeepFace.analyze(image_path=uploaded_file,actions=['emotion'],enforce_detection=False)
+        # Save uploaded_file to a temporary file
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as tmp:
+            tmp.write(uploaded_file.read())
+            tmp_path = tmp.name
+        result= DeepFace.analyze(img_path=uploaded_file,actions=['emotion'],enforce_detection=False)
         mood=result[0]['dominant_emotion']
         st.success(f"Your mood is detected as: {mood.capitalize()}**")
         mood_lower = mood.lower()
